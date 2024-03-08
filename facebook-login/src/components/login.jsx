@@ -3,6 +3,7 @@ import "./login.css"
 
 function Login() {
     return (
+        <div>
         <div className="login">
         <div className="container">
             <div className="row">
@@ -36,6 +37,7 @@ function Login() {
                 </div>
             </div>
         </div>
+    </div>
     </div>
     )
 }
